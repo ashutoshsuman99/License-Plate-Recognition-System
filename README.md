@@ -1,6 +1,6 @@
 # License Plate Recognition System
 
-Developed a License Plate Recognition System which performs plate detection, character segmentation and character recognition to identify the Licence Plate Number. Used Open CV and Heuristics for plate detection, and Pytesseract and linear SVM for character recognition. Refer to - Documentation(https://github.com/ashutoshsuman99/License-Plate-Recognition-System/blob/master/Documentation.pdf) for more information.
+Developed a License Plate Recognition System which performs plate detection, character segmentation and character recognition to identify the Licence Plate Number. Used Open CV and Heuristics for plate detection, and Pytesseract and linear SVM for character recognition. Refer to - [Documentation](https://github.com/ashutoshsuman99/License-Plate-Recognition-System/blob/master/Documentation.pdf) for more information.
 
 ## Getting Started
 
@@ -30,9 +30,13 @@ pip install matplotlib
 pip install pytesseract
 ```
 
-### Installing
+### Installing & Testing
 
-To install it copy this
+* Download this project into you computer 
+* Run prediction.py
+```
+python prediction.py
+```
 
 
 ## Built With
